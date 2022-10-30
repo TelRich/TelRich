@@ -13,7 +13,7 @@
 
 ---
 
-### Hi there 👋, My name is Goodrich Okoro
+## Hi there 👋, My name is Goodrich Okoro
 
 
 - 🔭 I’m currently working on ...
