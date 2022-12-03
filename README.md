@@ -50,7 +50,9 @@
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=telrich)  
   
   ![GitHub metrics](https://metrics.lecoq.io/telrich) 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/> </a> 
+  
+--- 
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=telrich)](https://github.com/ryo-ma/github-profile-trophy)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telrich)](https://github.com/anuraghazra/github-readme-stats)
