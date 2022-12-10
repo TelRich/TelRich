@@ -16,11 +16,11 @@
 ## Hi there 👋, My name is Goodrich Okoro
 
 
-- 🔭 I’m currently working on SQL projects
+- 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning how to build simple models as a data analyst
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about Data Analysis
-- ⚡ Fun fact: I love music and coding
+- 👯 I’m looking to collaborate in solving industry/business problems
+- 💬 Ask me about Data Analytics
+- ⚡ Fun fact: I love music, coding and seeing movies.
 
 ---
 
