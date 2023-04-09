@@ -18,8 +18,8 @@
 ## Hi there 👋, My name is Goodrich Okoro
 
 
-- 🔭 I’m currently working on Machine Learning Projects
-- 🌱 I’m currently learning how to build simple models as a data analyst
+- 🔭 I’m currently working on automating data analytics reports
+- 🌱 I’m currently learning how to build simple a automated system where reports and visualization are updated as data is entered into the database
 - 👯 I’m looking to collaborate in solving industry/business problems
 - 💬 Ask me about Data Analytics
 - ⚡ Fun fact: I love music, coding and seeing movies.
