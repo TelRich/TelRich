@@ -15,10 +15,10 @@
 
 ---
 
-## Hi there 👋, My name is Goodrich Okoro
+# Hi there 👋, My name is Goodrich Okoro
 
 
-- 🔭 I’m currently working on automating data analytics reports
+- 🔭 I’m currently working on Automating Data Analytics Reports
 - 🌱 I’m currently learning how to build simple a automated system where reports and visualization are updated as data is entered into the database
 - 👯 I’m looking to collaborate in solving industry/business problems
 - 💬 Ask me about Data Analytics
@@ -46,6 +46,24 @@
 </div>
 
 ---
+# [Power BI Portfolio](https://goodrich-power-bi-portfiolio.streamlit.app/)
+
+# Top Projects
+
+1. ## [Data Entry Application with Streamlit](https://github.com/TelRich/Data-Entry-App-with-Streamlit/tree/main)
+2. ## [National University Searchable Application with Streamlit](https://github.com/TelRich/National-University-Ranking-App)
+3. ## [International Breweries Analysis using SQL and Python](https://github.com/TelRich/International-Breweries-Analysis-with-SQL-and-Python/tree/main)
+4. ## [Nigeria Crude Oil Analysis with SQL](https://github.com/TelRich/Crude_Oil_Analysis_With_SQL)
+5. ## [Currency Foreign Exchange Rates Forecast](https://github.com/TelRich/Currency-Foreign-Exchange-Rates-Forecasting)
+6. ## [Game of Throne Character Death Prediction](https://github.com/TelRich/GOT_Character_Death_Prediction)
+7. ## [Movie Recommender System](https://github.com/TelRich/Movie-Recommender/tree/main)
+8. ## [Web Scraping Top Data Analytic Firms](https://github.com/TelRich/Web_Scraping_Top_Data_Analytics_Firms)
+9. ## [10Alytics Hackathon 2022 (Africa Health Analysis)](https://github.com/TelRich/Africa_Health_Analysis-10Alytics_Hackathon_2022)
+10. ## [Bikes Renting EDA with Plotly](https://github.com/TelRich/Bike_Sharing_EDA_with_Plotly/tree/main)
+11. ## [Plato's Pizza Analysis](https://github.com/TelRich/Plato-s_Pizza_Analysis)
+---
+
+# GitHub Stats
 
 <div align="center">
   
