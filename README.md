@@ -56,7 +56,7 @@
 4. ## [Nigeria Crude Oil Analysis with SQL](https://github.com/TelRich/Crude_Oil_Analysis_With_SQL)
 5. ## [Currency Foreign Exchange Rates Forecast](https://github.com/TelRich/Currency-Foreign-Exchange-Rates-Forecasting)
 6. ## [Game of Throne Character Death Prediction](https://github.com/TelRich/GOT_Character_Death_Prediction)
-7. ## [Movie Recommender System](https://github.com/TelRich/Movie-Recommender/tree/main)
+7. ## [Movie Recommender System](https://github.com/TelRich/Movie_Recommender)
 8. ## [Web Scraping Top Data Analytic Firms](https://github.com/TelRich/Web_Scraping_Top_Data_Analytics_Firms)
 9. ## [10Alytics Hackathon 2022 (Africa Health Analysis)](https://github.com/TelRich/Africa_Health_Analysis-10Alytics_Hackathon_2022)
 10. ## [Bikes Renting EDA with Plotly](https://github.com/TelRich/Bike_Sharing_EDA_with_Plotly/tree/main)
