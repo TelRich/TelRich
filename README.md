@@ -15,14 +15,14 @@
 
 ---
 
-# Hi there 👋, My name is Goodrich Okoro
+# Welcome! I'm Goodrich Okoro
 
-
-- 🔭 I’m currently working on Automating Data Analytics Reports
-- 🌱 I’m currently learning how to build simple a automated system where reports and visualization are updated as data is entered into the database
-- 👯 I’m looking to collaborate in solving industry/business problems
-- 💬 Ask me about Data Analytics
-- ⚡ Fun fact: I love music, coding and seeing movies.
+- 💼 Experienced Credit Risk Analyst and Data Analyst, specializing in leveraging data to drive business decisions.
+- 🔧 Skilled in Python, SQL, and data visualization tools like Power BI and Tableau, with a strong focus on credit risk assessment and portfolio management.
+- 📊 Currently enhancing automated reporting systems that provide real-time insights and visualizations as data is updated.
+- 🌱 Passionate about learning and implementing innovative solutions in data engineering and analytics.
+- 👥 Looking to collaborate on projects that tackle real-world business problems through data-driven insights.
+- 🎵 Outside of work, I enjoy coding, exploring new music, and indulging in a good movie.
 
 ---
 
