@@ -50,6 +50,8 @@
 
 # Top Projects
 
+* ## [spark-postgres-dbt](https://github.com/TelRich/spark-dbt-postgres)
+
 1. ## [Data Entry Application with Streamlit](https://github.com/TelRich/Data-Entry-App-with-Streamlit/tree/main)
 2. ## [National University Searchable Application with Streamlit](https://github.com/TelRich/National-University-Ranking-App)
 3. ## [International Breweries Analysis using SQL and Python](https://github.com/TelRich/International-Breweries-Analysis-with-SQL-and-Python/tree/main)
