@@ -43,6 +43,10 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="60" height="60"/> </a>
   <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="60" height="60"/> </a>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="60" height="60"/> </a>
+  <a href="https://app.powerbi.com/home" target="_blank" rel="noreferrer"> <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" title="Power BI" alt="Power BI" width="60" height="60"/> </a>
+  <a href="https://www.prefect.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Q7kdS2E7AwFi-LXl50b-FwHaHC?rs=1&pid=ImgDetMain" title="Prefect" alt="Prefect" width="60" height="60"/> </a>
+  <a href="https://mode.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.EzAysYBTU_eXq-_JncinpQAAAA?rs=1&pid=ImgDetMain" title="Mode Analytics" alt="Mode Analytics" width="60" height="60"/> </a>
+  <a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.6ab2ae508e023688cec4b2e80408ae79?rik=OumWN9lQTVLjng&pid=ImgRaw&r=0" title="Superset" alt="Superset" width="60" height="60"/> </a>
     
 </div>
 
