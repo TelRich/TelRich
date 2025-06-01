@@ -2,98 +2,200 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<div id="badges">
+  <h1>
+    Hey there, I'm Goodrich Okoro
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <h3>🚀 Senior Data & Analytics Engineer | Credit Risk Specialist | Fintech Data Architecture</h3>
+</div>
+
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/goodrichokoro/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/OkoroGoodrich">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=TelRich&style=flat-square&color=blue" alt=""/>
-</div>
-
----
-
-# Welcome! I'm Goodrich Okoro
-
-- 💼 Experienced Credit Risk Analyst and Data Analyst, specializing in leveraging data to drive business decisions.
-- 🔧 Skilled in Python, SQL, and data visualization tools like Power BI and Tableau, with a strong focus on credit risk assessment and portfolio management.
-- 📊 Currently enhancing automated reporting systems that provide real-time insights and visualizations as data is updated.
-- 🌱 Passionate about learning and implementing innovative solutions in data engineering and analytics.
-- 👥 Looking to collaborate on projects that tackle real-world business problems through data-driven insights.
-- 🎵 Outside of work, I enjoy coding, exploring new music, and indulging in a good movie.
-
----
-
-## Skills and Tools: <div>
-<p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="100" height="100"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="100"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="100" height="100"/> </a>
-   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="100" height="100"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="100" height="100"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="100" height="100"/> </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VisualStudio" alt="VisuaStudio" width="100" height="100"/> </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="100" height="100"/> </a>
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="100" height="100"/> </a>
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="100" height="100"/> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="100" height="100"/> </a>
-  <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="100" height="100"/> </a>
-  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="100" height="100"/> </a>
-  <a href="https://app.powerbi.com/home" target="_blank" rel="noreferrer"> <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" title="Power BI" alt="Power BI" width="100" height="100"/> </a>
-  <a href="https://www.prefect.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Q7kdS2E7AwFi-LXl50b-FwHaHC?rs=1&pid=ImgDetMain" title="Prefect" alt="Prefect" width="100" height="100"/> </a>
-  <a href="https://mode.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.EzAysYBTU_eXq-_JncinpQAAAA?rs=1&pid=ImgDetMain" title="Mode Analytics" alt="Mode Analytics" width="100" height="100"/> </a>
-  <a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.6ab2ae508e023688cec4b2e80408ae79?rik=OumWN9lQTVLjng&pid=ImgRaw&r=0" title="Superset" alt="Superset" width="100" height="100"/> </a>
-  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.jScsbKXrTkATsAsms9CLlQHaFj?rs=1&pid=ImgDetMain" title="dbt" alt="dbt" width="100" height="100"/> </a>
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.98bd6b156c7fb4fbb1e5eb6fb17c7f37?rik=C%2by6DSFe8DG3RQ&pid=ImgRaw&r=0" title="Databricks" alt="Databricks" width="100" height="100"/> </a>
-    
+  <a href="mailto:okorogoodrich@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=TelRich&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
-# [Power BI Portfolio](https://goodrich-power-bi-portfiolio.streamlit.app/)
 
-# Top Projects
+## 👨‍💻 About Me
 
-* ## [spark-postgres-dbt](https://github.com/TelRich/spark-dbt-postgres)
+I'm a **Senior Data & Analytics Engineer** with a passion for building robust data infrastructure that powers financial decision-making. Currently architecting mission-critical data systems at **Umba Digital Solutions**, where I bridge the gap between core banking systems and advanced analytics.
 
-1. ## [Data Entry Application with Streamlit](https://github.com/TelRich/Data-Entry-App-with-Streamlit/tree/main)
-2. ## [National University Searchable Application with Streamlit](https://github.com/TelRich/National-University-Ranking-App)
-3. ## [International Breweries Analysis using SQL and Python](https://github.com/TelRich/International-Breweries-Analysis-with-SQL-and-Python/tree/main)
-4. ## [Nigeria Crude Oil Analysis with SQL](https://github.com/TelRich/Crude_Oil_Analysis_With_SQL)
-5. ## [Currency Foreign Exchange Rates Forecast](https://github.com/TelRich/Currency-Foreign-Exchange-Rates-Forecasting)
-6. ## [Game of Throne Character Death Prediction](https://github.com/TelRich/GOT_Character_Death_Prediction)
-7. ## [Movie Recommender System](https://github.com/TelRich/Movie_Recommender)
-8. ## [Web Scraping Top Data Analytic Firms](https://github.com/TelRich/Web_Scraping_Top_Data_Analytics_Firms)
-9. ## [10Alytics Hackathon 2022 (Africa Health Analysis)](https://github.com/TelRich/Africa_Health_Analysis-10Alytics_Hackathon_2022)
-10. ## [Bikes Renting EDA with Plotly](https://github.com/TelRich/Bike_Sharing_EDA_with_Plotly/tree/main)
-11. ## [Plato's Pizza Analysis](https://github.com/TelRich/Plato-s_Pizza_Analysis)
+### 🎯 What I Do:
+- 🏗️ **Data Engineering**: Design and implement enterprise-grade ETL pipelines processing millions of financial transactions
+- 📊 **Analytics Engineering**: Build self-service analytics platforms with 650+ custom visualizations across 23+ dashboards
+- 🏦 **Fintech Integration**: Architect seamless integrations between core banking systems (Instafin) and modern data stacks
+- 📈 **Credit Risk Analytics**: Develop sophisticated risk models and portfolio analysis frameworks
+- 🤖 **Automation**: Create intelligent systems that eliminate manual work (saved 20+ hours weekly)
+
+### 🌟 Recent Achievements:
+- 🚨 Enhanced fraud detection efficiency by **95.84%** through advanced transaction monitoring
+- ⚡ Reduced financial reporting query times from minutes to **seconds** with optimized data models
+- 🎯 Decreased system inconsistencies by **99.7%** through robust validation frameworks
+- 📊 Built comprehensive analytics infrastructure supporting **$XX million** in loan portfolio management
+
 ---
 
-# GitHub Stats
+## 🛠️ Technical Stack
+
+### **Data Engineering & ETL**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Prefect-0066CC?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"/>
+  <img src="https://img.shields.io/badge/dbt-FF6B6B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Airbyte-6366F1?style=for-the-badge&logo=airbyte&logoColor=white" alt="Airbyte"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+</p>
+
+### **Databases & Data Warehousing**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Azure_PostgreSQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+</p>
+
+### **Analytics & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apache&logoColor=white" alt="Superset"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
+
+### **Core Technologies**
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+### **DevOps & Version Control**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/CI/CD-239120?style=for-the-badge&logo=jenkins&logoColor=white" alt="CI/CD"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏦 **Financial Data Engineering Projects**
+
+#### 1. [**Core Banking Data Integration Platform**](https://github.com/TelRich/core-banking-integration)
+Enterprise-grade ETL system integrating Instafin core banking with analytics infrastructure
+- **Tech**: Python, Prefect, PostgreSQL, dbt
+- **Impact**: Processes 1M+ transactions daily with 99.9% accuracy
+- **Features**: Real-time validation, automated reconciliation, fault-tolerant architecture
+
+#### 2. [**Credit Risk Analytics Dashboard**](https://github.com/TelRich/credit-risk-analytics)
+Comprehensive portfolio risk management system with predictive analytics
+- **Tech**: Apache Superset, Python, SQL, Machine Learning
+- **Impact**: Reduced loan defaults by 12.5% through early warning indicators
+- **Features**: PAR analysis, vintage tracking, ML-based risk scoring
+
+#### 3. [**Spark-PostgreSQL-dbt Analytics Pipeline**](https://github.com/TelRich/spark-dbt-postgres)
+Modern data stack implementation for large-scale financial data processing
+- **Tech**: Apache Spark, dbt, PostgreSQL, Python
+- **Features**: Incremental processing, data quality checks, automated documentation
+
+### 📊 **Analytics Engineering Portfolio**
+
+#### 4. [**Power BI Portfolio Dashboard**](https://goodrich-power-bi-portfiolio.streamlit.app/)
+Interactive showcase of 20+ financial and operational dashboards
+- **Tech**: Power BI, Streamlit, Python
+- **Highlights**: Revenue tracking, fraud detection, customer analytics
+
+#### 5. [**Automated Loan Eligibility System**](https://github.com/TelRich/loan-eligibility-automation)
+Intelligent system for real-time loan offer generation and eligibility calculation
+- **Tech**: Python, PostgreSQL, Prefect, REST APIs
+- **Impact**: Eliminated 20+ hours of manual work weekly
+
+### 🔧 **Data Applications**
+
+#### 6. [**National University Search Application**](https://github.com/TelRich/National-University-Ranking-App)
+Full-stack data application with advanced search and filtering
+- **Tech**: Streamlit, Python, Pandas
+
+#### 7. [**International Breweries Analysis**](https://github.com/TelRich/International-Breweries-Analysis-with-SQL-and-Python)
+End-to-end data analysis project showcasing SQL and Python skills
+- **Tech**: SQL, Python, Pandas, Visualization libraries
+
+### 📈 **Machine Learning & Analytics**
+
+#### 8. [**Currency Exchange Rate Forecasting**](https://github.com/TelRich/Currency-Foreign-Exchange-Rates-Forecasting)
+Time-series forecasting system using ARIMA and Prophet models
+- **Tech**: Python, Prophet, ARIMA, Pandas
+
+#### 9. [**Movie Recommender System**](https://github.com/TelRich/Movie_Recommender)
+Collaborative filtering recommendation engine
+- **Tech**: Python, Machine Learning, Flask
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=telrich&theme=gruvbox)  
-  
-  ![GitHub metrics](https://metrics.lecoq.io/telrich) 
-  
---- 
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=telrich&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telrich&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=telrich&show_icons=true&count_private=true&theme=gruvbox)  
-  
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=telrich&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=telrich&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </div>
-  
-  
-  
-  
-  
-  
-  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=telrich&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=telrich&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📚 Certifications & Continuous Learning
+
+<details>
+<summary>Click to expand certifications</summary>
+
+- 🎓 **Diploma in Data Engineering** - AltSchool Africa (In Progress)
+- 📊 **Certified Associate Data Analyst** - DataCamp
+- 🔍 **ALX-T Data Analyst Nanodegree** - Udacity
+- 💾 **SQL for Database Administrator** - DataCamp
+- 📈 **Data Analyst with Python** - DataCamp
+- 🏦 **Fundamentals of Credit** - CFI
+- 🤝 **Professional Ethics** - CFI
+
+</details>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on projects that involve:
+- 🏗️ Building scalable data infrastructure
+- 📊 Creating impactful analytics solutions
+- 🏦 Fintech and financial data challenges
+- 🤖 Automating complex data workflows
+
+### 📫 Reach out to me:
+- 📧 Email: okorogoodrich@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/goodrichokoro](https://www.linkedin.com/in/goodrichokoro/)
+- 🐦 Twitter: [@OkoroGoodrich](https://twitter.com/OkoroGoodrich)
+- 📱 Phone: +2348169327250
+
+---
+
+<div align="center">
+  <i>⚡ "Turning data chaos into business clarity, one pipeline at a time" ⚡</i>
+</div>
