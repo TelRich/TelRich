@@ -126,7 +126,7 @@ I'm a Senior Data & Analytics Engineer who builds production-grade data platform
 <details>
 <summary>Click to expand certifications</summary>
 
-- Diploma in Data Engineering — AltSchool Africa (Completed)
+- Diploma in Data Engineering — AltSchool Africa
 - Certified Associate Data Analyst — DataCamp
 - ALX-T Data Analyst Nanodegree — Udacity
 - SQL for Database Administrators — DataCamp
