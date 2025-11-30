@@ -91,12 +91,16 @@ I'm a Senior Data & Analytics Engineer who builds production-grade data platform
 
 ## Selected Projects
 
-1. [Core Banking Data Integration Platform](https://github.com/TelRich/core-banking-integration) — Prefect- and dbt-driven ETL that connects Instafin to analytics infrastructure with validation, reconciliation, and fault tolerance.
-2. [Credit Risk Analytics Dashboard](https://github.com/TelRich/credit-risk-analytics) — Portfolio risk management with PAR analysis, vintage tracking, and ML-based risk scoring delivered via Superset/SQL/Python.
-3. [Spark-PostgreSQL-dbt Analytics Pipeline](https://github.com/TelRich/spark-dbt-postgres) — Modern data stack for large-scale processing with incremental models, data quality checks, and automated docs.
-4. [Power BI Portfolio Dashboard](https://goodrich-power-bi-portfiolio.streamlit.app/) — Interactive showcase of financial and operational dashboards for revenue, fraud, and customer analytics.
-5. [Automated Loan Eligibility System](https://github.com/TelRich/loan-eligibility-automation) — Real-time loan offer generation using Python, PostgreSQL, Prefect, and REST APIs to eliminate manual processes.
-6. [Vintage Analysis App](https://github.com/TelRich/Vintage-Analysis) — Streamlit and Plotly app for repayment and vintage KPIs backed by PostgreSQL and cached SQL queries.
+1. [spark-dbt-postgres](https://github.com/TelRich/spark-dbt-postgres) — Spark + dbt + PostgreSQL data stack with incremental models, quality checks, and automated docs.
+2. [Credit-Risk-Model](https://github.com/TelRich/Credit-Risk-Model) — Credit risk analytics pipeline with portfolio KPIs, PAR analysis, and ML-based scoring.
+3. [Prefect](https://github.com/TelRich/Prefect) — Prefect-based orchestration patterns for ETL, segmentation, and reporting jobs.
+4. [gcp-ingestion-project](https://github.com/TelRich/gcp-ingestion-project) — Cloud ingestion pipelines to land batch data into a warehouse using a lightweight orchestration stack.
+5. [mongodb-eduhub-project](https://github.com/TelRich/mongodb-eduhub-project) — MongoDB-backed learning hub with CRUD and aggregation flows for course content.
+6. [csv-to-db-project](https://github.com/TelRich/csv-to-db-project) — Automated CSV loader that normalizes files and writes them to a relational database.
+7. [Data-Entry-App-with-Streamlit](https://github.com/TelRich/Data-Entry-App-with-Streamlit) — Streamlit data-entry app that validates inputs and persists them to a database.
+8. [Power-BI-Dashboards](https://github.com/TelRich/Power-BI-Dashboards) — Collection of finance and operations dashboards packaged for easy review.
+9. [National-University-Ranking-App](https://github.com/TelRich/National-University-Ranking-App) — Streamlit search application with advanced filtering and ranking.
+10. [Currency-Foreign-Exchange-Rates-Forecasting](https://github.com/TelRich/Currency-Foreign-Exchange-Rates-Forecasting) — Time-series forecasting using ARIMA/Prophet with explainability-ready visuals.
 
 ---
 
@@ -122,7 +126,7 @@ I'm a Senior Data & Analytics Engineer who builds production-grade data platform
 <details>
 <summary>Click to expand certifications</summary>
 
-- Diploma in Data Engineering — AltSchool Africa (In Progress)
+- Diploma in Data Engineering — AltSchool Africa (Completed)
 - Certified Associate Data Analyst — DataCamp
 - ALX-T Data Analyst Nanodegree — Udacity
 - SQL for Database Administrators — DataCamp
